@@ -42,4 +42,6 @@ Here are some of the snap-shots of the application:
 
 <img width="1440" alt="Screen Shot 2022-01-16 at 5 58 27 PM" src="https://user-images.githubusercontent.com/91396470/149681657-1141423d-957b-44f5-9b46-dbe093023348.png">
 
+6. Snapshot of code for "Push a button export product data to a CSV"
 
+<img width="820" alt="Screen Shot 2022-01-16 at 6 15 12 PM" src="https://user-images.githubusercontent.com/91396470/149682135-44aa9f71-44ec-4bfb-ba3c-dd826e7b45d4.png">
