@@ -38,7 +38,7 @@ Here are some of the snap-shots of the application:
 
 4. And for Deleting a product you just need to click on delete button infront of product.
 
-5. Product.csv - screenshot
+5. products.csv - screenshot
 
 <img width="1440" alt="Screen Shot 2022-01-16 at 5 58 27 PM" src="https://user-images.githubusercontent.com/91396470/149681657-1141423d-957b-44f5-9b46-dbe093023348.png">
 
